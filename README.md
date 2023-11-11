@@ -9,6 +9,8 @@ A documentação relevante para este projeto está disponível na pasta "docs". 
 - **Elicitação de Requisitos:** Este documento descreve o processo de elicitação de requisitos, incluindo as técnicas e métodos utilizados para coletar informações sobre o projeto.
 
 - **Requisitos Funcionais:** Nesta seção, você encontrará uma tabela dos requisitos funcionais do projeto, que descrevem as funcionalidades específicas que o sistema deve fornecer.
+ 
+- **Modelo conceitual:** Nesta seção, você encontrará um Arquivo do brModelo e uma imagem em png, que descreve o modelo conceitual do DB baseado nos requisitos funcionais.
 
 Por favor, consulte os documentos na pasta "docs" para obter mais detalhes sobre a elicitação de requisitos e os requisitos funcionais deste projeto.
 
