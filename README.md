@@ -12,7 +12,7 @@ A documentação relevante para este projeto está disponível na pasta "docs". 
  
 - **Modelo conceitual:** Nesta seção, você encontrará um Arquivo do brModelo e uma imagem em png, que descreve o modelo conceitual do DB baseado nos requisitos funcionais.
 
-Por favor, consulte os documentos na pasta "docs" para obter mais detalhes sobre a elicitação de requisitos e os requisitos funcionais deste projeto.
+Por favor, consulte os documentos na pasta "docs" para obter mais detalhes sobre a elicitação de requisitos, requisitos funcionais e modelo conceitual deste projeto.
 
 ## Estrutura do Projeto
 
